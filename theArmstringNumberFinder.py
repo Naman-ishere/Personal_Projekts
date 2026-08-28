@@ -10,7 +10,7 @@ def isArmstrong(num : int) :
         return "It is an Armstrong Number."
     else:
         return "It is not an Armstrong Number."
-
+ 
 
 
 
