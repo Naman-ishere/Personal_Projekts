@@ -26,7 +26,7 @@ for i in range(1, inpUs + 1):
         print(i)
         divBy5.append(i)
     else:
-        None 
+        pass 
 
 print("Divisible by 3:", divBy3)
 print("Divisible by 5:", divBy5)
